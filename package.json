@@ -1,0 +1,12 @@
+{
+  "name": "mathalgorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "node main.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
