@@ -30,9 +30,6 @@ npm test
 ### Como funciona
 1. **Caso não mostre um erro no console significa que os testes foram bem sucedidos**
 
-use a versão recomenada que está no .nvmrc
-
-
 
 Qualquer dúvida estou a disposição.
 
