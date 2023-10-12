@@ -21,7 +21,7 @@ nvm use
 ```
 2. **Rode os testes**
 
-ATENÇÃO: Antes de inializar você pode alterar os valores de saída (expect) no arquivo main.test.js
+ATENÇÃO: Antes de inicializar você pode alterar os valores de saída (expect) no arquivo main.test.js
 ```bash
 npm test
 ```
