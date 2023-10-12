@@ -6,6 +6,7 @@ Um projeto com cálculos matemáticos aplicando os princípios da arquitetura li
 UseCases
 1) Calcular números primos
 2) Calcular a média ponderada com base em pesos
+3) O Jogo das Cores
 
 
 ### Inicialização
@@ -20,15 +21,12 @@ nvm use
 ```
 2. **Rode os testes**
 
-ATENÇÃO: Antes de inializar você pode alterar os valores de saída (expect) e entrada (input)
+ATENÇÃO: Antes de inializar você pode alterar os valores de saída (expect) no arquivo main.test.js
 ```bash
 npm test
 ```
 
 ``node ``
-
-### Como funciona
-1. **Caso não mostre um erro no console significa que os testes foram bem sucedidos**
 
 
 Qualquer dúvida estou a disposição.
